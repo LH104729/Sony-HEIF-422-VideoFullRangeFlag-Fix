@@ -1,7 +1,7 @@
 This Python script fixes an issue where 10-bit HEIF 4:2:2 images are displayed incorrectly due to the VideoFullRangeFlag being set to 'limited' instead of 'full'.
 
 - This was fixed by Sony for the a7C II in firmware version 2.0.0.
-- As of firmware version 1.0.3, this issue has not been fixed for the a6700.
+- This was fixed by Sony for the a6700 in firmware version 2.0.0.
 
 > [!WARNING] 
 > Backup your files before running this script.
